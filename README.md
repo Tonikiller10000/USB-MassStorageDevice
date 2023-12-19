@@ -3,7 +3,7 @@
 
 <style> 
 
-div.n3{
+.n3{
 transform: rotate(90deg);
 width: 30%;
 }
