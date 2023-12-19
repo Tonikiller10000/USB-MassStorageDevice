@@ -3,12 +3,10 @@
 
 <style> 
 
-.n3{
+div.n3{
 transform: rotate(90deg);
 width: 30%;
 }
-
-
 
 </style>
 
@@ -23,9 +21,11 @@ width: 30%;
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/JLC2.jpg"/>
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/JLC2_3D.png"/>
 
-<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV1_1.png" class="n3" />
-<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV1_2.png" class="n3" />
-<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV1_3.png" class="n3" />
+
+<div class="n3">   <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV1_1.png"/>   </div>
+<div class="n3">   <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV1_2.png"/>   </div>
+<div class="n3">   <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV1_3.png"/>   </div>
+
 
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareJLC2_2.png"/>
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV2.png"/>
