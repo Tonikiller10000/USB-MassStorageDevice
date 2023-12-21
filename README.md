@@ -17,6 +17,7 @@ After testing with an 220nF THT ceramic capacitor because the SMD did not arrive
 
 
 Schematic:
+
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/schematic2.png"/>
 
 <table>
