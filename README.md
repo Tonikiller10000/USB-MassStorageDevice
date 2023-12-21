@@ -8,7 +8,7 @@ This project is an USB mass storage made with:
 
 
 After testing with an 220nF THT ceramic capacitor because the SMD did not arrived and making some improvisations trying to fix it,
- it still `do not work`. It seems like the memory chips and the controller ic\`s are not compatible so 
+ it still `does not work`. It seems like the memory chips and the controller ic\`s are not compatible so 
  `I will have another look on this project in the distant future` with different components.
 
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/3DModel.png"/>
@@ -17,7 +17,6 @@ After testing with an 220nF THT ceramic capacitor because the SMD did not arrive
 
 
 Schematic:
-
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/schematic2.png"/>
 
 <table>
