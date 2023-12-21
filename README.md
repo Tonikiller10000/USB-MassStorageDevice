@@ -6,7 +6,7 @@ This project is an USB mass storage made with 2 nand flash memory chips and an c
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/3DModel.png"/>
 
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/cleaning1.jpg"/>
-<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/cleaningD.jpg"/>
+<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/cleaningD.jpg" height=200/>
 
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/computer1.jpg"/>
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/JLC2.jpg"/>
@@ -21,14 +21,14 @@ This project is an USB mass storage made with 2 nand flash memory chips and an c
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk3.jpg" width=20% ></td>
-    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk5.jpg" width=20% ></td>
-    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk6.jpg" width=20% ></td>
+    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk3.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk5.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk6.jpg" ></td>
   </tr>
  </table>
 
  
-// height=480
+// height=480 width=20%
 
 
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareJLC2_2.png"/>
