@@ -1,5 +1,4 @@
-# USB MassStorageDevice
-## USB Memory Flash Drive - Abandoned 
+# USB MassStorageDevice ## - Abandoned 
 
 
 This project is an USB mass storage made with:
