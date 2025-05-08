@@ -11,7 +11,8 @@ This project is an USB mass storage made with:
 
 After testing the board with an 220nF THT ceramic capacitor because the SMD did not arrived in time, I made some improvisations trying to fix it, and
  it still `does not work`. It seems like the memory chip and the controller ic\`s are not compatible so 
- `I will have another look on this project in the distant future` with different components.
+ `I will have another look on this project in the distant future` with different components. I am looking into STM32 specs and usb 3.0 to SDMMC DMA transfer
+ including some software functions with hardware interaction sounds verry intheresting. And cheaper.
 
 <img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/3DModel.png"/>
 
