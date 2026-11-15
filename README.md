@@ -1,4 +1,4 @@
-# USB MassStorageDevice
+# USB MassStorageDevice ⛔ Discontinued
 
 
 This project is an USB mass storage made with:
