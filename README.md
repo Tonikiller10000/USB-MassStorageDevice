@@ -38,5 +38,8 @@ Datasheets:
 - Regulator: https://pdf1.alldatasheet.com/datasheet-pdf/view/85490/STMICROELECTRONICS/LD3985.html
 
 
+## License
 
+This project and its subprojects are licensed under
+the [MIT License](LICENSE).
 
